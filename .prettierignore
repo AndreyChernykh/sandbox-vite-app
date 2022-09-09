@@ -1,0 +1,11 @@
+tmp
+test
+build
+dist
+lib
+node_modules
+.vscode
+.idea
+.github
+.angular
+coverage
